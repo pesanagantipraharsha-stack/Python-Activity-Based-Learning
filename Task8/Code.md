@@ -61,7 +61,7 @@ Minimum required stock: 180
 
 
 ## 6. Sample Output
-```
+
 
 --- Stock Report ---
 Location: Warehouse A
@@ -83,7 +83,7 @@ Replenishment Required: 40
 Total Replenishment: 70
 Total Absolute Discrepancy: 10
 Stock Reconciliation Completed
-```
+
 
 ### Stock Calculation
 
