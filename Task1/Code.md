@@ -24,7 +24,7 @@ The University Scholarship Allocation System evaluates students based on aggrega
 9. Stop the program.
 
 ## 3. Flowchart 
-'''mermaid
+```mermaid
 flowchart TD
     A([Start]) --> B[/Enter student details/]
     B --> C{Meet all criteria?}
@@ -36,7 +36,7 @@ flowchart TD
     F -- No --> G[Rank students]
     G --> H[Display results]
     H --> I([Stop])
-'''
+```
 
 ## 5. Sample Input
 
